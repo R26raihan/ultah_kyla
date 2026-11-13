@@ -18,8 +18,8 @@ export const config = {
   kenangan: [
     { foto: '/photos/kyla-01.jpg', caption: 'Zaman lo masih jadi anak ADM ini wkwkw' },
     { foto: '/photos/kyla-02.jpg', caption: 'Ke Gunung Luhur bawa buket, bawa gua kagak. Oke, dicatet wkwkw' },
-    { foto: '/photos/kyla-03.jpg', caption: 'Langit dan pegunungan' },
     { foto: '/photos/kyla-04.jpg', caption: 'Bunga dan suasana hutan' },
+    { foto: '/photos/kyla-03.jpg', caption: 'Langit dan pegunungan' },
     { foto: '/photos/kyla-05.jpg', caption: 'Sampai di puncak' },
     { foto: '/photos/kyla-06.jpg', caption: 'Senyumnya lebar banget abis ke Gunung Luhur tanpa ngajak gua. Awas aja lo wkwkw' },
     { foto: '/photos/kyla-07.jpg', caption: 'Sembilan ekspresi Keylong' },
