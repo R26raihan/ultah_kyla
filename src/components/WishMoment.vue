@@ -36,7 +36,7 @@ function blow() {
         <p class="label">01 — Tiup dulu</p>
         <h2 class="serif title">
           <template v-if="!blown">Mau minta apa,<br /><em>Keylong?</em></template>
-          <template v-else>Semoga kesampean.<br /><em>Ini buket buat kamu.</em></template>
+          <template v-else>Semoga kesampean.<br /><em>Ini buket buat lu long wkwkw.</em></template>
         </h2>
         <button class="btn" :disabled="blown" @click="blow">
           {{ blown ? 'Udah ditiup' : 'Tiup lilinnya' }} <Check v-if="blown" class="arrow" :size="16" /><Flame v-else class="arrow" :size="16" />
