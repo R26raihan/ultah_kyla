@@ -1,0 +1,9 @@
+Mode: built-in image_gen. Originals unchanged. Prior gallery photo 08 removed at user request.
+
+kyla-10.jpg
+Source: C:/Users/USER/Downloads/WhatsApp Image 2026-11-13 at 21.21.00 (1).jpeg
+Prompt: Use case: identity-preserve. Edit target: provided indoor selfie. Conservatively restore photo clarity, reduce compression artifacts and blur, improve fine fabric detail and natural exposure. Preserve EXACT facial identity, age, proportions, eyes, nose, mouth, open-mouth smiling expression, makeup, brown hijab, cream floral blouse, bag strap and bow, selfie pose, wardrobe background, lighting and landscape composition. No beautification, no reshaping, no stylization, no new objects. Remove only thin black edge bars. Natural realistic skin, gentle sharpening, output restored photo only.
+
+kyla-11.jpg
+Source: C:/Users/USER/Downloads/WhatsApp Image 2026-11-13 at 21.21.00.jpeg
+Prompt: Use case: identity-preserve. Edit target: supplied close-up vertical selfie. MINIMAL CONSERVATIVE photo cleanup only. Preserve the subject's EXACT face as in the source: same eye size and shape, eyebrows, nose, lips, jaw, cheeks, original makeup and soft appearance, original expression, apparent age, skin tone and facial proportions. Do not reinterpret or reconstruct face, do not add freckles or pores, do not remove existing filter or reshape anything. Preserve brown hijab cream floral blouse, finger touching lower lip, ring and fingernails, wardrobe behind her and original portrait framing. Only gently reduce JPEG artifacts and noise and slightly improve overall clarity, retain softness where information is missing. No beauty edits, no new details, output same photograph lightly cleaned.
